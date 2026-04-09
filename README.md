@@ -14,54 +14,146 @@
 
 </div>
 
-```bash
+---
+
 # 🧠 About Me
-name="Vansh Tejnani"
-role="Software Developer"
-location="Toronto, Canada"
-education="BSc Computer Science @ York University (2028)"
-focus=("scalable systems & backend performance" "AI-driven applications & cloud architecture" "building impactful, production-grade projects")
+
+```bash
+name: Vansh Tejnani
+role: Software Developer
+location: Toronto, Canada
+education: BSc Computer Science @ York University (2028)
+
+focus:
+  - scalable systems
+  - backend performance
+  - AI-driven applications
+```
+
+---
 
 # ⚡ Current Status
-status="online 🟢"
-building="full-stack + AI-powered applications"
-working_on="scalable backend systems & APIs"
-learning="cloud architecture (AWS, Docker, Firebase) + distributed systems"
-improving="performance optimization & system design"
-goal="ship production-ready projects that matter"
+
+```bash
+> status: online 🟢
+> building: full-stack + AI-powered applications
+> working_on: scalable backend systems & APIs
+> learning: cloud architecture (AWS, Docker) + distributed systems
+> improving: performance optimization & system design
+> goal: ship impactful, production-level projects
+```
+
+---
 
 # ⚒️ Tech Stack
-languages=("Java" "Python" "TypeScript" "JavaScript" "SQL" "C" "C++" "R" "Processing" "Assembly")
-frontend=("React" "Next.js" "HTML" "CSS" "Tailwind" "Bootstrap")
-backend=("Node.js" "Express" "Java" "Spring Boot" "FastAPI")
-cloud_tools=("Firebase" "Docker" "AWS" "Git" "Vercel" "MongoDB" "Supabase")
-productivity_ides=("MS Office" "VS Code" "IntelliJ" "Arduino" "Wing" "Eclipse")
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel" />
+</p>
+
+---
 
 # 🚀 Featured Projects
-relocateRight=("AI-powered relocation recommendation system" "ranked 300+ locations using weighted scoring" "reduced latency by 30%+" "real-time OpenStreetMap visualization")
-bloomLoop=("Habit tracking + analytics platform" "streaks, achievements, analytics" "Firebase auth + real-time sync" "improved performance by 30%")
-activePlus=("Fitness tracking backend + analytics" "RESTful API (Node + Express)" "Normalized SQL schema" "Scalable tracking dashboards")
+
+## 🔥 RelocateRight
+```bash
+> AI-powered relocation recommendation system
+```
+- ranked 300+ locations using weighted scoring  
+- reduced latency by 30%+  
+- real-time OpenStreetMap visualization  
+
+---
+
+## 📊 BloomLoop
+```bash
+> habit tracking + analytics platform
+```
+- streaks, achievements, analytics  
+- Firebase auth + real-time sync  
+- improved performance by 30%  
+
+---
+
+## 🏋️ Active+
+```bash
+> fitness tracking backend + analytics
+```
+- RESTful API (Node + Express)  
+- normalized SQL schema  
+- scalable tracking dashboards  
+
+---
 
 # 🧠 Experience
-experience=("Technical Lead @ Ripen Labs: built scalable backend systems, optimized data pipelines & API performance, improved engagement workflows by 40%" 
-            "Hackathon Judge & Mentor: evaluated 20+ student projects, guided architecture & best practices, mentored on full-stack & AI implementations" 
-            "Research Assistant @ York University: worked on AI/ML algorithms for data analysis, contributed to research papers & prototypes")
+
+```bash
+> Technical Lead @ Ripen Labs
+- built scalable tracking systems
+- improved engagement workflows
+
+> Hackathon Judge & Mentor
+- evaluated 20+ projects
+- guided system architecture decisions
+```
+
+---
 
 # 📊 GitHub Stats
-# Main Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-# Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 # 🌐 Connect
-# GitHub: https://github.com/vansht04
-# LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-# Portfolio: https://yourportfolio.com
 
-# 🐍 Custom Contribution Snake
-<img src="https://github.com/vansht04/vansht04/blob/output/github-contribution-grid-snake.svg" alt="Vansh's unique contribution snake" width="100%" />
+<p align="center">
+  <a href="https://github.com/vansht04">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+![snake gif](https://github.com/vansht04/vansht04/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 # ⚡ Final Log
-final_status="actively building 🟢"
-open_to="internships / collaborations"
-mindset="optimize. scale. repeat."
+
+```bash
+> status: actively building 🟢
+> open_to: internships / collaborations
+> mindset: optimize. scale. repeat.
+```
