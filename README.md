@@ -177,19 +177,7 @@ focus:
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1"
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&v=1"
-/>
-
-<br/>
-
+  
 <img 
   src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true&v=1"
 />
