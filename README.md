@@ -179,23 +179,22 @@ focus:
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
 />
 
 <br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200"
 />
 
 <br/>
 
 <img 
-  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
 />
 
 </div>
-
 
 ---
 
@@ -212,7 +211,6 @@ focus:
     <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
   </a>
 </p>
-
 
 ---
 
