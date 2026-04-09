@@ -177,13 +177,12 @@ focus:
 # 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img 
-  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true&v=1"
+  src="https://github-readme-stats-eight-mocha-11.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
 </div>
-
 
 ---
 
