@@ -82,7 +82,7 @@ focus:
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,processing,rust,replit,r" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,processing,rust,replit,r,c,cpp" />
 </p>
 
 ### 🌐 Frontend
@@ -97,7 +97,7 @@ focus:
 
 ### ☁️ Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel" />
+<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel,eclipse," />
 </p>
 
 ---
@@ -200,18 +200,18 @@ focus:
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/vansht">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vanshbt@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <!-- Website (dev.to icon) -->
-  <a href="https://YOUR_SITE.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=devto" />
+  <!-- Website -->
+  <a href="https://vanshtejnani.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=v" />
   </a>
 
 </p>
