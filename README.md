@@ -179,13 +179,13 @@ focus:
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
+  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
 
 <br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
 />
 
 <br/>
@@ -198,7 +198,7 @@ focus:
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/vansht04">
