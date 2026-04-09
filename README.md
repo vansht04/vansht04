@@ -179,22 +179,23 @@ focus:
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1"
 />
 
 <br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true&v=1"
 />
 
 <br/>
 
 <img 
-  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true&v=1"
 />
 
 </div>
+
 
 ---
 
@@ -202,15 +203,16 @@ focus:
 
 <p align="center">
   <a href="https://github.com/vansht04">
-    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD"/>
+    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD&v=1"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&v=1"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
+    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=windowsterminal&logoColor=70A5FD&v=1"/>
   </a>
 </p>
+
 
 ---
 
