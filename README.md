@@ -196,6 +196,7 @@ focus:
 
 </div>
 
+
 ---
 
 # 🌐 Connect
@@ -211,6 +212,7 @@ focus:
     <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
   </a>
 </p>
+
 
 ---
 
