@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- 🌤️ Apple Auto Light/Dark Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/headers/dark-minimal.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/headers/light-minimal.png">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/headers/light-minimal.png" width="100%">
-</picture>
-
 # ⚡ Vansh Tejnani
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=007AFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%2F+Systems+Builder;Cloud+%2B+Scalable+Architecture;Performance+Optimizer;Building+Cool+Stuff+24%2F7" />
@@ -22,13 +15,6 @@
 </div>
 
 ---
-
-<!-- 🍏 Apple Divider -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
 
 # 🧠 About Me
 
@@ -46,12 +32,6 @@ focus:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
-
 # ⚡ Current Status
 
 ```bash
@@ -64,12 +44,6 @@ focus:
 ```
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
 
 # ⚒️ Tech Stack
 
@@ -95,25 +69,15 @@ focus:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
-
-# 🎧 Pop Radio — Listen While You Browse
+# 🎧 Listen While You Browse
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator" width="70%" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+    <img src="https://img.shields.io/badge/Play-Pop%20Radio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
 
 # 🚀 Featured Projects
 
@@ -147,12 +111,6 @@ focus:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
-
 # 🧠 Experience
 
 ```bash
@@ -167,12 +125,6 @@ focus:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -185,12 +137,6 @@ focus:
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
 
 # 🌐 Connect
 
@@ -207,12 +153,6 @@ focus:
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/dark-wave.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg">
-  <img src="https://raw.githubusercontent.com/itsjusttriz/apple-assets/main/dividers/light-wave.svg" width="100%">
-</picture>
 
 # 🐍 Contribution Activity
 
