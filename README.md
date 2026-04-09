@@ -201,7 +201,7 @@ focus:
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/vansht">
-    <img src="https://img.shields.io/badge/-LinkedIn-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335"" />
+    <img src="https://img.shields.io/badge/-LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
   <!-- Email -->
