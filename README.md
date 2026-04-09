@@ -54,12 +54,13 @@
 name: Vansh Tejnani
 role: Software Developer
 location: Toronto, Canada
-education: BSc Computer Science @ York University (2028)
+education: BSc., Hons. Computer Science @ York University (2028)
 
 focus:
-  - scalable systems
-  - backend performance
-  - AI-driven applications
+  - full-stack development
+  - backend systems and APIs
+  - building scalable web apps
+  - using data to improve features
 ```
 
 ---
@@ -68,8 +69,8 @@ focus:
 
 ```bash
 > status: online 🟢
-> building: full-stack + AI-powered applications
-> working_on: scalable backend systems & APIs
+> building: full-stack + AI-based applications and systems
+> working_on: backend systems and APIs that power apps
 > learning: cloud architecture (AWS, Docker) + distributed systems
 > improving: performance optimization & system design
 > goal: ship impactful, production-level projects
@@ -81,17 +82,17 @@ focus:
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql,processing,rust,replit,r" />
 </p>
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,ts,flask,fastapi" />
 </p>
 
 ### ☁️ Cloud & Tools
@@ -112,10 +113,10 @@ focus:
 - real-time OpenStreetMap visualization  
 
 <p>
-  <a href="#" target="_blank">
+  <a href="https://relocateright.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/vansht04/Relocate-Right---Full-Stack-Location-Recommendation-App" target="_blank">
     <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -127,14 +128,14 @@ focus:
 > habit tracking + analytics platform
 ```
 - streaks, achievements, analytics  
-- Firebase auth + real-time sync  
+- real-time sync  
 - improved performance by 30%  
 
 <p>
-  <a href="#" target="_blank">
+  <a href="https://bloomloop-4ns.caffeine.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/vansht04/BloomLoop---Social-Habit-Tracking-App" target="_blank">
     <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -150,10 +151,10 @@ focus:
 - scalable tracking dashboards  
 
 <p>
-  <a href="#" target="_blank">
+  <a href="https://activeplus-coq.caffeine.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/vansht04/Active-Plus" target="_blank">
     <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -164,17 +165,25 @@ focus:
 
 ```bash
 > Technical Lead @ Ripen Labs
-- built scalable tracking systems
+- growth bried for scaling business
 - improved engagement workflows
 
-> Hackathon Judge & Mentor
+> Project Lead @ Riipen Labs
+-improved website performance and engagement
+-analyzed user data to increase conversions
+
+> Hackathon Judge & Mentor @ Ctrl Hack Del 2.0
 - evaluated 20+ projects
 - guided system architecture decisions
+
+> Youth In Policing Student @ Peel Regional Police
+-worked in fast-paced team environments
+-wrote reports and followed structured procedures
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 <div align="center">
 
@@ -191,17 +200,17 @@ focus:
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/-Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335"" />
+  <a href="https://linkedin.com/in/vansht">
+    <img src="https://img.shields.io/badge/-LinkedIn-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335"" />
   </a>
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vanshbt@gmail.com">
     <img src="https://img.shields.io/badge/-Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 
   <!-- Website -->
-  <a href="https://yourportfolio.com">
+  <a href="https://vanshtejnani.vercel.app/">
     <img src="https://img.shields.io/badge/-Website-1A1B27?style=for-the-badge&logo=firefox&logoColor=70A5FD" />
   </a>
 
@@ -209,10 +218,10 @@ focus:
 
 ---
 
-# ⚡ Final Log
+# ⚡ Exit Status
 
 ```bash
 > status: actively building 🟢
-> open_to: internships / collaborations
+> open_to: internships
 > mindset: optimize. scale. repeat.
 ```
