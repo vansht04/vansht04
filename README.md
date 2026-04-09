@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Vansh Tejnani ⚡
+# Hey 👋🏻, I'm Vansh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%2F+Systems+Builder;Cloud+%2B+Scalable+Architecture;Performance+Optimizer;Building+Cool+Stuff+24%2F7" />
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/TODAY'S%20TOP%20HITS-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6">
+<a href="https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju">
   <img src="https://img.shields.io/badge/POP%20ALL%20DAY-70A5FD?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/RAP-8A2BE2?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8">
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn">
   <img src="https://img.shields.io/badge/LOFI%20BEATS-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
