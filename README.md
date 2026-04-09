@@ -9,9 +9,31 @@
 ## 🎧 Listen While You Browse
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
-    <img src="https://img.shields.io/badge/TODAY'S%20TOP%20HITS-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
+  <img src="https://img.shields.io/badge/TODAY'S%20TOP%20HITS-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6">
+  <img src="https://img.shields.io/badge/POP%20ALL%20DAY-70A5FD?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd">
+  <img src="https://img.shields.io/badge/RAP-8A2BE2?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX9sIqqvKsjG8">
+  <img src="https://img.shields.io/badge/LOFI%20BEATS-FFB6C1?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n">
+  <img src="https://img.shields.io/badge/EDM-00FFFF?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U">
+  <img src="https://img.shields.io/badge/ROCK-FF4500?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
 </p>
 
 <br/>
@@ -19,7 +41,7 @@
 <img src="https://komarev.com/ghpvc/?username=vansht04&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 <a href="https://github.com/vansht04">
-  <img src="https://img.shields.io/badge/FOLLOW%20ME-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD"/>
+  <img src="https://img.shields.io/badge/FOLLOW%20ME-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -94,7 +116,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" />
+    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -113,7 +135,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" />
+    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -122,7 +144,7 @@ focus:
 ## 🏋️ Active+
 ```bash
 > fitness tracking backend + analytics
-``]
+```
 - RESTful API (Node + Express)  
 - normalized SQL schema  
 - scalable tracking dashboards  
@@ -132,7 +154,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" />
+    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -174,6 +196,7 @@ focus:
 
 </div>
 
+
 ---
 
 # 🌐 Connect
@@ -186,9 +209,10 @@ focus:
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
+    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=70A5FD"/>
   </a>
 </p>
+
 
 ---
 
