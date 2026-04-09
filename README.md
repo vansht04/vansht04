@@ -204,18 +204,14 @@ focus:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <!-- Email -->
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Website -->
+  <!-- Website (dev.to icon) -->
   <a href="https://YOUR_SITE.vercel.app/">
-    <img src="https://img.shields.io/badge/💻 Website-1A1B27?style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=devto" />
   </a>
 
 </p>
