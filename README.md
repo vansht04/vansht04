@@ -36,6 +36,15 @@
 
 </p>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vansht04&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<a href="https://github.com/vansht04?tab=followers">
+  <img src="https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -187,8 +196,6 @@ focus:
 
 </div>
 
-
-
 ---
 
 # 🌐 Connect
@@ -204,8 +211,6 @@ focus:
     <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
   </a>
 </p>
-
-
 
 ---
 
