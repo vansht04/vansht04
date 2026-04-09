@@ -151,10 +151,26 @@ focus:
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=vansht04&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
 
 ---
 
