@@ -6,7 +6,7 @@
 
 <br/>
 
-<!-- Spotify Selector -->
+## 🎧 Listen While You Browse
 <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
   <img src="https://img.shields.io/badge/TODAY'S%20TOP%20HITS-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
@@ -15,8 +15,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=vansht04&label=PROFILE+VIEWS&color=70A5FD&style=for-the-badge" />
 
-<a href="https://github.com/vansht04?tab=followers">
-  <img src="https://img.shields.io/github/followers/vansht04?label=FOLLOW%20ME&style=for-the-badge&color=000000"/>
+<a href="https://github.com/vansht04">
+  <img src="https://img.shields.io/badge/FOLLOW%20ME-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
