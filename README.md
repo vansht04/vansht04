@@ -82,7 +82,7 @@ focus:
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql,processing,rust,replit,r" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,processing,rust,replit,r" />
 </p>
 
 ### 🌐 Frontend
