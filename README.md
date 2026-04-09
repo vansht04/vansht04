@@ -2,14 +2,14 @@
 
 # ⚡ Vansh Tejnani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%2F+Systems+Builder;Cloud+%2B+Scalable+Architecture;Performance+Optimizer;Building+Cool+Stuff+24%2F7" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF41&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%2F+Systems+Builder;Cloud+%2B+Scalable+Architecture;Performance+Optimizer;Creating+Next-Gen+Apps" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vansht04&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vansht04&label=Profile+Views&color=00FF41&style=for-the-badge" />
 
 <a href="https://github.com/vansht04?tab=followers">
-  <img src="https://img.shields.io/github/followers/vansht04?label=FOLLOW&style=for-the-badge&color=black"/>
+  <img src="https://img.shields.io/github/followers/vansht04?label=FOLLOW&style=for-the-badge&color=00FF41"/>
 </a>
 
 </div>
@@ -18,30 +18,28 @@
 
 # 🧠 About Me
 
-```bash
-name: Vansh Tejnani
-role: Software Developer
-location: Toronto, Canada
-education: BSc Computer Science @ York University (2028)
+<p align="center">  
+💻 Full-stack developer | 🤖 AI Enthusiast | ☁️ Cloud & Scalable Systems | ⚡ Optimizing performance & building futuristic apps
+</p>
 
-focus:
-  - scalable systems
-  - backend performance
-  - AI-driven applications
-```
+<p align="center">
+🌍 Toronto, Canada | 🎓 BSc Computer Science @ York University (2028) | 🚀 Always learning & building
+</p>
 
 ---
 
 # ⚡ Current Status
 
-```bash
-> status: online 🟢
-> building: full-stack + AI-powered applications
-> working_on: scalable backend systems & APIs
-> learning: cloud architecture (AWS, Docker) + distributed systems
-> improving: performance optimization & system design
-> goal: ship impactful, production-level projects
-```
+<div style="background-color:#0a0a0a; border-left:5px solid #00FF41; padding:10px; border-radius:5px">
+<pre>
+> 🟢 Status : Online
+> 🔨 Building : Full-stack & AI-powered apps
+> ⚙️ Working on : Scalable backend systems & APIs
+> 📚 Learning : Cloud architecture (AWS, Docker, Kubernetes)
+> 🔧 Improving : Performance & system design
+> 🎯 Goal : Ship production-ready, futuristic projects
+</pre>
+</div>
 
 ---
 
@@ -49,7 +47,7 @@ focus:
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,sql,c,cpp,r,processing,assembly" />
 </p>
 
 ### 🌐 Frontend
@@ -59,59 +57,64 @@ focus:
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,springboot,fastapi,django" />
 </p>
 
 ### ☁️ Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel" />
+<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel,mongodb,supabase" />
+</p>
+
+### 📝 Productivity & IDEs
+<p>
+<img src="https://skillicons.dev/icons?i=word,excel,ppt,onenote,vscode,arduino,riscv,wing,idea,eclipse" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 RelocateRight
-```bash
-> AI-powered relocation recommendation system
-```
-- ranked 300+ locations using weighted scoring  
-- reduced latency by 30%+  
-- real-time OpenStreetMap visualization  
+<div align="center">
 
----
+### 🔹 RelocateRight
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FF41&center=true&vCenter=true&width=500&lines=AI-powered+Relocation+Recommendation+System" />
+**Repo:** [GitHub](https://github.com/vansht04/Relocate-Right---Full-Stack-Location-Recommendation-App) | **Demo:** [Live Demo](#)  
+- Ranked 300+ locations using weighted scoring  
+- Reduced latency by 30%+  
+- Real-time OpenStreetMap visualization  
 
-## 📊 BloomLoop
-```bash
-> habit tracking + analytics platform
-```
-- streaks, achievements, analytics  
+### 🔹 BloomLoop
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FF41&center=true&vCenter=true&width=500&lines=Social+Habit+Tracking+Platform" />
+**Repo:** [GitHub](https://github.com/vansht04/BloomLoop---Social-Habit-Tracking-App) | **Demo:** [Live Demo](#)  
+- Streaks, achievements & analytics  
 - Firebase auth + real-time sync  
-- improved performance by 30%  
+- Performance optimized  
 
----
-
-## 🏋️ Active+
-```bash
-> fitness tracking backend + analytics
-```
+### 🔹 Active+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FF41&center=true&vCenter=true&width=500&lines=Fitness+Tracking+Backend+Analytics" />
+**Repo:** [GitHub](https://github.com/vansht04/Active-Plus) | **Demo:** [Live Demo](#)  
 - RESTful API (Node + Express)  
-- normalized SQL schema  
-- scalable tracking dashboards  
+- Normalized SQL schema  
+- Scalable dashboards  
+
+</div>
 
 ---
 
 # 🧠 Experience
 
-```bash
-> Technical Lead @ Ripen Labs
-- built scalable tracking systems
-- improved engagement workflows
+<div style="background-color:#0a0a0a; border-left:5px solid #00FF41; padding:10px; border-radius:5px">
+<pre>
+> 💼 Technical Lead @ Ripen Labs
+  - Built scalable tracking systems & analytics pipelines
+  - Optimized backend workflows
+  - Mentored junior developers
 
-> Hackathon Judge & Mentor
-- evaluated 20+ projects
-- guided system architecture decisions
-```
+> 🏆 Hackathon Judge & Mentor
+  - Evaluated 20+ projects
+  - Guided architecture & system design
+</pre>
+</div>
 
 ---
 
@@ -132,28 +135,37 @@ focus:
 
 <p align="center">
   <a href="https://github.com/vansht04">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&color=00FF41"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&color=00FF41"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&color=00FF41"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&color=00FF41"/>
   </a>
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🖥️ Currently Coding
 
-![snake gif](https://github.com/vansht04/vansht04/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://wakatime.com/share/@vansht04/12345678-abcd-1234-ef00-123456abcdef.svg" alt="WakaTime Coding Stats"/>
+</p>
 
 ---
 
 # ⚡ Final Log
 
-```bash
-> status: actively building 🟢
-> open_to: internships / collaborations
-> mindset: optimize. scale. repeat.
-```
+<div style="background-color:#0a0a0a; border-left:5px solid #00FF41; padding:10px; border-radius:5px">
+<pre>
+> 🟢 Status: Actively Building
+> 🚀 Open to: Internships & Collaborations
+> 🧠 Mindset: Optimize. Scale. Repeat.
+> 🌐 Vibe: Hacker + Futuristic Matrix
+> 💡 Motto: Code. Break. Fix. Innovate.
+</pre>
+</div>
