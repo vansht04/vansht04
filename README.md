@@ -203,22 +203,23 @@ focus:
 
 <p align="center">
 
-  <!-- GitHub -->
-  <a href="https://github.com/vansht04">
-    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" />
-  </a>
-
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 
-  <!-- Portfolio -->
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+
+  <!-- Website / Portfolio -->
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=globe&logoColor=70A5FD" />
+    <img src="https://img.shields.io/badge/Website-1A1B27?style=for-the-badge&logo=firefox&logoColor=70A5FD" />
   </a>
 
 </p>
+
 
 
 
