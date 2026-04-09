@@ -36,15 +36,6 @@
 
 </p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vansht04&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-<a href="https://github.com/vansht04">
-  <img src="https://img.shields.io/badge/FOLLOW%20ME-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -179,13 +170,13 @@ focus:
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=vansht04&show_icons=true&theme=tokyonight&hide_border=true"
 />
 
+<br/>
+
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true" 
-  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansht04&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <br/>
@@ -195,6 +186,7 @@ focus:
 />
 
 </div>
+
 
 
 ---
@@ -209,9 +201,10 @@ focus:
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=70A5FD"/>
+    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=firefoxbrowser&logoColor=70A5FD"/>
   </a>
 </p>
+
 
 
 ---
