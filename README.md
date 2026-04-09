@@ -204,25 +204,24 @@ focus:
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" style="vertical-align: middle;"/>
+    <span style="font-size: 18px; margin-left: 6px;">LinkedIn</span>
   </a>
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="mailto:YOUR_EMAIL@gmail.com" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" style="vertical-align: middle;"/>
+    <span style="font-size: 18px; margin-left: 6px;">Email</span>
   </a>
 
   <!-- Website -->
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Website-1A1B27?style=for-the-badge&logo=firefox&logoColor=70A5FD" />
+  <a href="https://yourportfolio.com" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="26" style="vertical-align: middle;"/>
+    <span style="font-size: 18px; margin-left: 6px;">Website</span>
   </a>
 
 </p>
-
-
-
-
 
 ---
 
