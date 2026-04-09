@@ -213,12 +213,13 @@ focus:
     <img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 
-  <!-- Website / Portfolio -->
+  <!-- Website -->
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Website-1A1B27?style=for-the-badge&logo=firefox&logoColor=70A5FD" />
   </a>
 
 </p>
+
 
 
 
