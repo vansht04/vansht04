@@ -205,16 +205,17 @@ focus:
   </a>
 
   <!-- Email -->
-  <a href="mailto:vanshbt@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <!-- Website -->
-  <a href="https://vanshtejnani.vercel.app/">
-    <img src="https://img.shields.io/badge/-Website-1A1B27?style=for-the-badge&logo=firefox&logoColor=70A5FD" />
+  <a href="https://YOUR_SITE.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=firefox" />
   </a>
 
 </p>
+
 
 ---
 
