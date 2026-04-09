@@ -196,21 +196,23 @@ focus:
 
 </div>
 
+
 ---
 
 # 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/vansht04">
-    <img src="https://img.shields.io/badge/GitHub-0A0A23?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=70A5FD"/>
   </a>
 </p>
+
 
 ---
 
