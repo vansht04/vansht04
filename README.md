@@ -2,7 +2,7 @@
 
 # Hey 👋🏻, I'm Vansh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff+24%2F7;CS+Student;Formula+1+Lover;Problem-Solver;Leader;Thinker;Team+Player;Rizzler;GOAT;Goated;Majestic" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff+24%2F7;Formula+1+Lover;Problem-Solver;Natural+Leader;Team+Player;Rizzler;G.O.A.T;Goated;Majestic" />
 
 <br/>
 
