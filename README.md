@@ -69,10 +69,10 @@ focus:
 
 ```bash
 > status: online 🟢
-> building: full-stack + AI-based applications and systems
-> working_on: backend systems and APIs that power apps
-> learning: cloud architecture (AWS, Docker) + distributed systems
-> improving: performance optimization & system design
+> building: full-stack systems that integrate AI to revolutionize user experiences
+> working_on: shaping technology that solves real-world problems and drives impactful change
+> learning: cutting-edge cloud technologies, AI advancements & next-gen development practices
+> improving: performance engineering, system optimization & design
 > goal: ship impactful, production-level projects
 ```
 
