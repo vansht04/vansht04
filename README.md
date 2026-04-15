@@ -2,7 +2,7 @@
 
 # Hey 👋🏻, I'm Vansh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff+24%2F7;Scalable+Backend+Systems;Full-Stack+Developer;Cloud+%26+System+Design+Focus" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Real-World+Software+%7C+Building+Cool+Stuff+24%2F7" />
 
 <br/>
 
