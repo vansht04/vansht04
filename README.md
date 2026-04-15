@@ -164,19 +164,19 @@ focus:
 # 🧠 Experience
 
 ```bash
-- Technical Lead @ Ripen Labs
+Technical Lead @ Ripen Labs
 > growth bried for scaling business
 > improved engagement workflows
 
-- Project Lead @ Riipen Labs
+Project Lead @ Riipen Labs
 > improved website performance and engagement
 > analyzed user data to increase conversions
 
-- Hackathon Judge & Mentor @ Ctrl Hack Del 2.0
+Hackathon Judge & Mentor @ Ctrl Hack Del 2.0
 > evaluated 20+ projects
 > guided system architecture decisions
 
-- Youth In Policing Student @ Peel Regional Police
+Youth In Policing Student @ Peel Regional Police
 > worked in fast-paced team environments
 > wrote reports and followed structured procedures
 ```
