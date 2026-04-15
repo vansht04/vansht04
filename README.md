@@ -58,9 +58,9 @@ education: BSc., Hons. Computer Science @ York University (2028)
 
 focus:
   - full-stack development
-  - backend systems and APIs
-  - building scalable web apps
-  - using data to improve features
+  - working on ideas that create a lasting impact
+  - building tech that makes a difference in people's lives
+  - developing the future
 ```
 
 ---
