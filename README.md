@@ -59,7 +59,7 @@ education: BSc., Hons. Computer Science @ York University (2028)
 focus:
   - full-stack development
   - working on ideas that create a lasting impact
-  - building tech that makes a difference in people's lives
+  - building tech that makes a difference in everyday life
   - developing the future
 ```
 
