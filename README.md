@@ -165,7 +165,7 @@ focus:
 
 ```bash
 Technical Lead @ Ripen Labs
-> growth bried for scaling business
+> growth brief for scaling business
 > improved engagement workflows
 
 Project Lead @ Riipen Labs
