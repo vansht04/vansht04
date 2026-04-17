@@ -124,7 +124,7 @@ focus:
 ---
 
 
-## 🔥 RelocateRight
+## 🏡 RelocateRight
 ```bash
 > AI-powered relocation recommendation system
 ```
