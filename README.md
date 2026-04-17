@@ -104,6 +104,26 @@ focus:
 
 # 🚀 Featured Projects
 
+## 🤖 MyAI
+```bash
+> personal AI chatbot
+```
+- real-time conversational AI assistant
+- intelligent personal insights powered by AI
+- internet identity auth integrated across session
+
+<p>
+  <a href="https://mypersonalai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vansht04/MyAI---Personal-AI-Chatbot" target="_blank">
+    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 ## 🔥 RelocateRight
 ```bash
 > AI-powered relocation recommendation system
