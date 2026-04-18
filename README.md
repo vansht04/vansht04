@@ -184,11 +184,14 @@ focus:
 # 🧠 Experience
 
 ```bash
-Technical Lead @ Ripen Labs
+Software Engineer @ Ripen
+> incoming summer 2026
+
+Technical Lead @ Ripen
 > growth brief for scaling business
 > improved engagement workflows
 
-Project Lead @ Riipen Labs
+Project Lead @ Riipen
 > improved website performance and engagement
 > analyzed user data to increase conversions
 
