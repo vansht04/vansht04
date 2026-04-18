@@ -184,10 +184,10 @@ focus:
 # 🧠 Experience
 
 ```bash
-Software Engineer @ Ripen
+Software Engineer @ Riipen
 > incoming summer 2026
 
-Technical Lead @ Ripen
+Technical Lead @ Riipen
 > growth brief for scaling business
 > improved engagement workflows
 
