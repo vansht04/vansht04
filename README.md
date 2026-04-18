@@ -184,14 +184,11 @@ focus:
 # 🧠 Experience
 
 ```bash
-Software Engineer @ Ripen
-> incoming summer 26'
-
-Technical Lead @ Ripen
+Technical Lead @ Ripen Labs
 > growth brief for scaling business
 > improved engagement workflows
 
-Project Lead @ Riipen
+Project Lead @ Riipen Labs
 > improved website performance and engagement
 > analyzed user data to increase conversions
 
@@ -205,7 +202,6 @@ Youth In Policing Student @ Peel Regional Police
 ```
 
 ---
-
 # 📊 Stats
 
 <div align="center">
