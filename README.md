@@ -52,7 +52,7 @@
 
 ```bash
 name: Vansh Tejnani
-role: Software Developer
+role: Software Engineer
 location: Toronto, Canada
 education: BSc., Hons. Computer Science @ York University (2028)
 
