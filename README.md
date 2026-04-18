@@ -184,7 +184,7 @@ focus:
 # 🧠 Experience
 
 ```bash
-Software Engineer @ Learncapes Consulting Inc.
+Software Engineer @ Learncapes Consulting Inc
 > incoming summer 2026
 > thru riipen advance ontario
 
