@@ -185,8 +185,7 @@ focus:
 
 ```bash
 Software Engineer @ Learncapes Consulting Inc
-> incoming summer 2026
-> thru riipen advance ontario
+> building an augmented reality app with 3d modeling features
 
 Technical Lead @ Riipen
 > growth brief for scaling business
