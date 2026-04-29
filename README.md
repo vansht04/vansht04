@@ -108,9 +108,9 @@ focus:
 ```bash
 > greatest lost and found app ever
 ```
-- made for shopify builder sunday with vineet, agassti, and kenzi
-- live interactive map with firebase backend & google oauth integrated
-- security measures to ensure no misuse of data
+- made for shopify builder sunday with vineet, agasti, and kenzi
+- live interactive map with firebase backend & google oauth
+- security meaesures to prevent misuse of data
 
 <p>
   <a href="https://yorkreturn.vercel.app/" target="_blank">
