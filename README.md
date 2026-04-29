@@ -104,6 +104,26 @@ focus:
 
 # 🚀 Featured Projects
 
+## 🔍 YorkReturn
+```bash
+> greatest lost & found app ever
+```
+- google oauth integrated
+- live interactive map with firebase backend
+- security measures to ensure no misuse of data
+
+<p>
+  <a href="https://yorkreturn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/vansht04/York-Return" target="_blank">
+    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 ## 🤖 MyAI
 ```bash
 > personal AI chatbot
@@ -113,7 +133,7 @@ focus:
 - internet identity auth integrated across session
 
 <p>
-  <a href="https://mypersonalai.vercel.app/" target="_blank">
+  <a href="https://myai-k3l.caffeine.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/MyAI---Personal-AI-Chatbot" target="_blank">
