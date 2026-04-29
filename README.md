@@ -92,7 +92,7 @@ focus:
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,ts,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,express,supabase,mongodb,mysql,ts,flask,fastapi" />
 </p>
 
 ### ☁️ Cloud & Tools
