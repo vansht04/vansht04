@@ -106,10 +106,10 @@ focus:
 
 ## 🔍 YorkReturn
 ```bash
-> greatest lost & found app ever
+> greatest lost and found app ever
 ```
-- google oauth integrated
-- live interactive map with firebase backend
+- made for shopify builder sunday with vineet, agassti, and kenzi
+- live interactive map with firebase backend & google oauth integrated
 - security measures to ensure no misuse of data
 
 <p>
