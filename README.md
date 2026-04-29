@@ -97,7 +97,7 @@ focus:
 
 ### ☁️ Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,docker,aws,git,vercel,eclipse," />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,vercel,eclipse," />
 </p>
 
 ---
