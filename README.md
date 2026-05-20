@@ -54,7 +54,7 @@
 name: Vansh Tejnani
 role: Software Engineer
 location: Toronto, Canada
-education: BSc., Hons. Computer Science @ York University (2028)
+education: Hons. B.S.c. in Computer Science @ York University (2028)
 
 focus:
   > full-stack development
