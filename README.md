@@ -204,7 +204,7 @@ focus:
 # 🧠 Experience
 
 ```bash
-Software Developer  @ The Royal Canadian Legion
+Software Developer @ The Royal Canadian Legion
 > incoming summer 2026
 
 Software Engineer @ Learncapes Consulting Inc
