@@ -204,6 +204,9 @@ focus:
 # 🧠 Experience
 
 ```bash
+Software Developer  @ The Royal Canadian Legion
+> incoming summer 2026
+
 Software Engineer @ Learncapes Consulting Inc
 > building an augmented reality app with 3d modeling features
 
