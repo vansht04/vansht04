@@ -255,7 +255,7 @@ Youth In Policing Student @ Peel Regional Police
   </a>
 
   <!-- Website -->
-  <a href="https://vanshtejnani.vercel.app/">
+  <a href="https://vansht.vercel.app/">
     <img src="https://skillicons.dev/icons?i=v" />
   </a>
 
