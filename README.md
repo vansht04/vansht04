@@ -267,6 +267,6 @@ Youth In Policing Student @ Peel Regional Police
 
 ```bash
 > status: actively building 🟢
-> open_to: internships
+> open_to: internships / co-ops
 > mindset: optimize. scale. repeat.
 ```
