@@ -108,7 +108,7 @@ focus:
 ```bash
 > greatest lost and found app ever
 ```
-- made for shopify builder sunday with vineet, agasti, and kenzi
+- made at shopify builder sunday with vineet, agasti, and kenzi
 - live interactive map with firebase backend & google oauth
 - security meaesures to prevent misuse of data
 
