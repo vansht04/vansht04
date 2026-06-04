@@ -137,7 +137,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/MyAI---Personal-AI-Chatbot" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -157,7 +157,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/Relocate-Right---Full-Stack-Location-Recommendation-App" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -176,7 +176,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/BloomLoop---Social-Habit-Tracking-App" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -195,7 +195,7 @@ focus:
     <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/Active-Plus" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
