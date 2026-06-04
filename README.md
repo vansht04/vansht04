@@ -117,7 +117,7 @@ focus:
     <img src="https://img.shields.io/badge/DEMO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/York-Return" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
