@@ -192,7 +192,7 @@ focus:
 
 <p>
   <a href="https://activeplus-coq.caffeine.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-00A3FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/DEMO-22C55E?style=for-the-badge&logo=openstreetmap&logoColor=white" />
   </a>
   <a href="https://github.com/vansht04/Active-Plus" target="_blank">
     <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
