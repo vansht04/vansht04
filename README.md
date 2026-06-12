@@ -6,7 +6,7 @@
 
 <br/>
 
-## Some Music
+## 🎧 Listen While You Browse
 
 <p align="center">
 
