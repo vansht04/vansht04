@@ -52,7 +52,7 @@
 
 ```bash
 name: Vansh Tejnani
-role: Software Engineer
+role: Software Engineer / Software Developer
 location: Toronto, Canada
 education: Hons. B.S.c. in Computer Science @ York University (2028)
 
@@ -205,7 +205,7 @@ focus:
 
 ```bash
 Software Developer @ The Royal Canadian Legion
-> incoming summer 2026
+> developing a secure membership platform with personalized content
 
 Software Engineer @ Learncapes Consulting Inc
 > building an augmented reality app with 3d modeling features
