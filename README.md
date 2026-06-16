@@ -208,7 +208,7 @@ Software Developer @ The Royal Canadian Legion
 > developing a secure membership platform with personalized content
 
 Software Engineer @ Learncapes Consulting Inc
-> building an augmented reality app with 3d modeling features
+> built an augmented reality app with 3d modeling features
 
 Technical Lead @ Riipen
 > growth brief for scaling business
