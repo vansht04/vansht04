@@ -146,7 +146,7 @@ focus:
 
 ## 🏡 RelocateRight
 ```bash
-> AI-powered relocation recommendation system
+> ai powered relocation recommendation system
 ```
 - ranked 300+ locations using weighted scoring  
 - reduced latency by 30%+  
