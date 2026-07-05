@@ -250,7 +250,7 @@ Youth In Policing Student @ Peel Regional Police
   </a>
 
   <!-- Email -->
-  <a href="mailto:vanshbt@gmail.com">
+  <a href="mailto:vansht@my.yorku.ca">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
