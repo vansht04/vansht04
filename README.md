@@ -203,6 +203,9 @@ focus:
 # 🧠 Experience
 
 ```bash
+Machine Learning Engineer @ FlyRank AI
+> building a real predictive model on real data
+
 Software Developer @ The Royal Canadian Legion
 > developing a secure membership platform with personalized content
 
