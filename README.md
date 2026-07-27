@@ -88,7 +88,7 @@ focus:
 
 ---
 
-# 🧠 Experience
+# 💼 Experience
 
 ```bash
 Machine Learning Engineer @ FlyRank AI
