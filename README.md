@@ -56,6 +56,10 @@ role: Software Engineer / Software Developer
 location: Toronto, Canada
 education: Hons. B.S.c. in Computer Science @ York University (2028)
 
+> status: actively building 🟢
+> open_to: internships / co-ops
+> mindset: optimize. scale. repeat.
+
 focus:
   > full-stack development
   > working on ideas that create a lasting impact
@@ -136,11 +140,3 @@ Software Engineer @ Learncapes Consulting Inc
 </p>
 
 ---
-
-# ⚡ Exit Status
-
-```bash
-> status: actively building 🟢
-> open_to: internships / co-ops
-> mindset: optimize. scale. repeat.
-```
