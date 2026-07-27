@@ -64,19 +64,6 @@ focus:
 
 ---
 
-# ⚡ Current Status
-
-```bash
-> status: online 🟢
-> building: full-stack systems that integrate AI to revolutionize user experiences
-> working_on: shaping technology that solves real-world problems and drives impactful change
-> learning: cutting-edge cloud technologies, AI advancements & next-gen development practices
-> improving: performance engineering, system optimization & design
-> goal: ship impactful, production-level projects
-```
-
----
-
 # ⚒️ Tech Stack
 
 ### 💻 Languages
@@ -112,22 +99,6 @@ Software Developer @ The Royal Canadian Legion
 
 Software Engineer @ Learncapes Consulting Inc
 > built an augmented reality app with 3d modeling features
-
-Technical Lead @ Riipen
-> growth brief for scaling business
-> improved engagement workflows
-
-Project Lead @ Riipen
-> improved website performance and engagement
-> analyzed user data to increase conversions
-
-Hackathon Judge & Mentor @ Ctrl Hack Del 2.0
-> evaluated 20+ projects
-> guided system architecture decisions
-
-Youth In Policing Student @ Peel Regional Police
-> worked in fast-paced team environments
-> wrote reports and followed structured procedures
 ```
 
 ---
