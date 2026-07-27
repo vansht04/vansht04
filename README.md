@@ -52,7 +52,6 @@
 
 ```bash
 name: Vansh Tejnani
-role: Software Engineer / Software Developer
 location: Toronto, Canada
 education: Hons. B.S.c. in Computer Science @ York University (2028)
 
