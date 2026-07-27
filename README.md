@@ -53,7 +53,7 @@
 ```bash
 name: Vansh Tejnani
 location: Toronto, Canada
-education: Hons. B.S.c. in Computer Science @ York University (2028)
+education: Hons. B.S.c. in Computer Science @ York University
 
 > status: actively building 🟢
 > open_to: internships / co-ops
