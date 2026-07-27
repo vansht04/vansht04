@@ -162,44 +162,6 @@ focus:
 
 ---
 
-## 📊 BloomLoop
-```bash
-> habit tracking + analytics platform
-```
-- streaks, achievements, analytics  
-- real-time sync  
-- improved performance by 30%  
-
-<p>
-  <a href="https://bloomloop-4ns.caffeine.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/vansht04/BloomLoop---Social-Habit-Tracking-App" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🏋️ Active+
-```bash
-> fitness tracking backend + analytics
-```
-- RESTful API (Node + Express)  
-- normalized SQL schema  
-- scalable tracking dashboards  
-
-<p>
-  <a href="https://activeplus-coq.caffeine.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/vansht04/Active-Plus" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 # 🧠 Experience
 
 ```bash
